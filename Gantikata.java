@@ -7,6 +7,10 @@ package pkg23176016_latihan28.gantikata;
 /**
  *
  * @author LENOVO
+ * NAMA                  : GARNIS FIRDAUS
+ * NIM                   : 23176016
+ * PRODI                 : SISTEM INFORMASI
+ * DESKRIPSI PROGRAM     : Program ini digunakan untuk mengganti kata
  */
 
 import java.util.Scanner;
